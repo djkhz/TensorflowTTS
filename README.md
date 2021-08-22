@@ -110,7 +110,7 @@ def inference(text):
       f0_ratios =tf.convert_to_tensor([1.0], dtype=tf.float32),
       energy_ratios =tf.convert_to_tensor([1.0], dtype=tf.float32),
   )
-  
+
   # melgan inference
   audio_before = mb_melgan.inference(mel_before)[0, :, 0]
   audio_after = mb_melgan.inference(mel_after)[0, :, 0]
@@ -125,8 +125,8 @@ outputs =  gr.outputs.Audio(type="file", label="Output Audio")
 
 
 title = "Tensorflow TTS"
-description = "Gradio demo for TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2. To use it, simply add your text, or click one of the examples to load them. Read more at the links below."
-article = "<p style='text-align: center'><a href='https://tensorspeech.github.io/TensorFlowTTS/'>TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2</a> | <a href='https://github.com/TensorSpeech/TensorFlowTTS'>Github Repo</a></p>"
+description = "Gradio demo for TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2. To use it, simply add your text, or click one of the examples to load them."
+article = "<p style='text-align: center'><a href='https://ruslanmv.com/'> Check out more Machine Learning projects at my blog </a> | <a href='https://github.com/ruslanmv/TensorFlowTTS'>Github Repo</a></p>"
 
 examples = [
  ["TensorFlowTTS provides real-time state-of-the-art speech synthesis architectures such as Tacotron-2, Melgan, Multiband-Melgan, FastSpeech, FastSpeech2 based-on TensorFlow 2."],
