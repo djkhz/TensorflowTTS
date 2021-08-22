@@ -258,23 +258,15 @@ heroku open
 
  You’ll notice the web address is the automatically generated instance name plus the Heroku domain.
 
-![](../assets/images/posts/README/11-1629670848054.jpg)
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1110876514&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ruslanmv" title="Ruslan Magana Vsevolodovna" target="_blank" style="color: #cccccc; text-decoration: none;">Ruslan Magana Vsevolodovna</a> · <a href="https://soundcloud.com/ruslanmv/tensorflowtts" title="TensorFlowTTS" target="_blank" style="color: #cccccc; text-decoration: none;">TensorFlowTTS</a></div>
+[![](./assets/images/posts/README/11-1629670848054.jpg)](https://tts-ruslanmv.herokuapp.com/)
 
 
 
-
+[![](./assets/images/posts/README/image2.jpg)](https://soundcloud.com/ruslanmv/tensorflowtts)
 
 
 
 
-
-
-
-
-
-<sub>Source: https://research.google.com/colaboratory/faq.html</sub>
 
 [Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
 [License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
