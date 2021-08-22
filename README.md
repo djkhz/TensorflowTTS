@@ -4,7 +4,7 @@ Text-to-Speech TTS To Synthesize Speech That Sounds Like a Real Human Person
 
 
 
-[![Open in Colab][Colab Badge]]([Notebook])[![Code Issues][Code Issues]](https://github.com/ruslanmv/TensorflowTTS/issues)
+[![Open in Colab][Colab Badge]](https://colab.research.google.com/github/ruslanmv/TensorflowTTS/blob/master/TensorflowTTS.ipynb)[![Code Issues][Code Issues]](https://github.com/ruslanmv/TensorflowTTS/issues)
 
 
 
